@@ -1,5 +1,10 @@
 # Sentimental-Analysis
 
+<p><b>Problems</b></p>
+<p>The csv file needs to be trimmed before or during data cleansing.</p>
+<p>It took too long to run the vectorization, so I ran the sample first, since my laptop has frozen for times during this week.</p>
+
+
 <p><b>Read Data and KPI.ipynb</b></p>
 <p>First, I read the raw file, and checked if there's missing labels or texts in the file.</p>
 <p>Then I check the KPIs distribution with plots.</p>
